@@ -1,0 +1,8 @@
+[project]
+name = "devtools-verification-delivery"
+version = "0.1.0"
+description = "Python example for resending a verification code and reading SMS delivery state"
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
